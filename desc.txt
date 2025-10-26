@@ -1,0 +1,2 @@
+A small project I made for excercising with Python.
+This program makes an information for the bio data you store.
